@@ -1,7 +1,7 @@
 url: https://upload.pantaris.io/healthcheck
-status: up
-code: 200
-responseTime: 135
-lastUpdated: 2024-10-21T16:35:40.538Z
+status: down
+code: 503
+responseTime: 1639
+lastUpdated: 2024-10-21T18:21:01.634Z
 startTime: 2024-09-30T15:01:45.217Z
 generator: Upptime <https://github.com/upptime/upptime>
