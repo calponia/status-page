@@ -53,7 +53,7 @@ sites:
   - name: Test failing endpoints
     url: https://my.pantaris.io
     expectedStatusCodes:
-      - 500
+      - 200
 
   - name: Login & user settings
     url: https://my.pantaris.io
