@@ -220,36 +220,40 @@
     "url": "https://upload.pantaris.io/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/upload.pantaris.io.ico",
     "slug": "upload-and-webdav-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 257,
-    "timeDay": 318,
-    "timeWeek": 148,
-    "timeMonth": 225,
-    "timeYear": 257,
-    "dailyMinutesDown": {}
+    "time": 255,
+    "timeDay": 223,
+    "timeWeek": 145,
+    "timeMonth": 223,
+    "timeYear": 255,
+    "dailyMinutesDown": {
+      "2024-11-05": 0
+    }
   },
   {
     "name": "Download Service",
     "url": "https://download.pantaris.io/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/download.pantaris.io.ico",
     "slug": "download-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 209,
+    "time": 208,
     "timeDay": 107,
-    "timeWeek": 119,
-    "timeMonth": 143,
-    "timeYear": 209,
-    "dailyMinutesDown": {}
+    "timeWeek": 118,
+    "timeMonth": 142,
+    "timeYear": 208,
+    "dailyMinutesDown": {
+      "2024-11-05": 0
+    }
   },
   {
     "name": "Applications",
