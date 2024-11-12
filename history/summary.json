@@ -240,7 +240,7 @@
     "slug": "upload-and-webdav-service",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
@@ -250,7 +250,7 @@
     "timeMonth": 220,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2024-11-12": 0,
+      "2024-11-12": 1,
       "2024-11-05": 20
     }
   },
@@ -261,7 +261,7 @@
     "slug": "download-service",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
