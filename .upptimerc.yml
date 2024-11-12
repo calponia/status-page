@@ -22,7 +22,7 @@ status-website:
   name: PANTARIS Status
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status-test.pantaris.io
+  cname: status.pantaris.io
   # baseUrl: /status-page-poc2
   navbar:
     - title: Home
@@ -37,15 +37,15 @@ status-website:
   # logoUrl: https://calponia.github.io/status-page-poc2/logo_white.svg
   # favicon: https://calponia.github.io/status-page-poc2/favicon.png
   ## with cname
-  themeUrl: https://status-test.pantaris.io/etas-theme.css
-  logoUrl: https://status-test.pantaris.io/logo_white.svg
-  favicon: https://status-test.pantaris.io/favicon.png
+  themeUrl: https://status.pantaris.io/etas-theme.css
+  logoUrl: https://status.pantaris.io/logo_white.svg
+  favicon: https://status.pantaris.io/favicon.png
   links:
     - rel: stylesheet
       ## without cname
       # href: https://calponia.github.io/status-page-poc2/custom.css
       ## with cname
-      href: https://status-test.pantaris.io/custom.css
+      href: https://status.pantaris.io/custom.css
 
 # configuration of monitoring endpoints: https://upptime.js.org/docs/configuration#endpoints
 sites:
