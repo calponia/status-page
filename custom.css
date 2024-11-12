@@ -1,0 +1,93 @@
+nav {
+  /*height: 58px;*/
+  box-sizing: border-box;
+  background-image: linear-gradient(to right, #164293, #89037a);
+  font-family: Manrope, sans-serif !important;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #fff;
+}
+
+/*Decrease ETAS logo size*/
+nav img {
+  width: 25%;
+  height: auto;
+  display: inline-block;
+}
+
+/* Remove right padding of navbar elements */
+li a {
+    padding-right: 0 !important;
+}
+
+/*Use custom Manrope font*/
+
+@font-face {
+  font-family: 'Manrope';
+  src: url('fonts/Manrope-ExtraLight.ttf');
+  font-weight: 100;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Manrope';
+  src: url('fonts/Manrope-ExtraLight.ttf');
+  font-weight: 200;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Manrope';
+  src: url('fonts/Manrope-Light.ttf');
+  font-weight: 300;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Manrope';
+  src: url('fonts/Manrope-Regular.ttf');
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Manrope';
+  src: url('fonts/Manrope-Medium.ttf');
+  font-weight: 500;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Manrope';
+  src: url('fonts/Manrope-SemiBold.ttf');
+  font-weight: 600;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Manrope';
+  src: url('fonts/Manrope-Bold.ttf');
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Manrope';
+  src: url('fonts/Manrope-ExtraBold.ttf');
+  font-weight: 800;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Manrope';
+  src: url('fonts/Manrope-ExtraBold.ttf');
+  font-weight: 900;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Manrope';
+  src: url('fonts/Manrope-ExtraBold.ttf');
+  font-weight: 1000;
+  font-display: swap;
+}
