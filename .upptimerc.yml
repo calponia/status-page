@@ -50,11 +50,6 @@ status-website:
 # configuration of monitoring endpoints: https://upptime.js.org/docs/configuration#endpoints
 sites:
 
-  - name: Test failing endpoints
-    url: https://my.pantaris.io
-    expectedStatusCodes:
-      - 200
-
   - name: Login & user settings
     url: https://my.pantaris.io
     expectedStatusCodes:
