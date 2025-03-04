@@ -262,18 +262,20 @@
     "url": "https://healthcheck.app.pantaris.io",
     "icon": "https://icons.duckduckgo.com/ip3/healthcheck.app.pantaris.io.ico",
     "slug": "applications",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 167,
-    "timeDay": 338,
-    "timeWeek": 129,
-    "timeMonth": 157,
-    "timeYear": 167,
-    "dailyMinutesDown": {}
+    "time": 169,
+    "timeDay": 388,
+    "timeWeek": 168,
+    "timeMonth": 167,
+    "timeYear": 169,
+    "dailyMinutesDown": {
+      "2025-03-04": 0
+    }
   },
   {
     "name": "External Traffic Service",
