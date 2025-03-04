@@ -1,7 +1,7 @@
 url: https://healthcheck.app.pantaris.io
-status: down
+status: up
 code: 200
-responseTime: 200
-lastUpdated: 2025-03-04T11:22:31.486Z
+responseTime: 185
+lastUpdated: 2025-03-04T11:27:40.812Z
 startTime: 2024-09-30T15:01:47.031Z
 generator: Upptime <https://github.com/upptime/upptime>
