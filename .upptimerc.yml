@@ -127,7 +127,7 @@ sites:
   - name: Applications
     url: https://healthcheck.app.pantaris.io
     expectedStatusCodes:
-      - 203
+      - 307
 
   - name: External Traffic Service
     url: http://0ca2d4b8f342a21cfb6de71d1d1c46b4.ext.pantaris.io:3001/
