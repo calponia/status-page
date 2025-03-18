@@ -1,7 +1,7 @@
 url: https://docker.pantaris.io
-status: down
-code: 503
-responseTime: 97
-lastUpdated: 2025-03-18T11:45:24.927Z
+status: up
+code: 200
+responseTime: 343
+lastUpdated: 2025-03-18T12:01:31.402Z
 startTime: 2024-09-30T15:01:48.500Z
 generator: Upptime <https://github.com/upptime/upptime>
