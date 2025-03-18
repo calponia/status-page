@@ -1,7 +1,7 @@
 url: https://platform.pantaris.io
-status: up
-code: 200
+status: down
+code: 503
 responseTime: 96
-lastUpdated: 2025-03-17T23:02:20.101Z
+lastUpdated: 2025-03-18T11:30:29.629Z
 startTime: 2024-10-07T12:42:22.533Z
 generator: Upptime <https://github.com/upptime/upptime>
