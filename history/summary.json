@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.pantaris.io.ico",
     "slug": "login-and-user-settings",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 136,
     "timeDay": 217,
     "timeWeek": 209,
     "timeMonth": 184,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2025-03-18": 1
+      "2025-03-18": 15
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/platform.pantaris.io.ico",
     "slug": "projects",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 146,
     "timeDay": 96,
     "timeWeek": 125,
     "timeMonth": 148,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2025-03-18": 1
+      "2025-03-18": 15
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/project.pantaris.io.ico",
     "slug": "projects-v2-experimental",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 150,
     "timeDay": 333,
     "timeWeek": 185,
     "timeMonth": 149,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2025-03-18": 1
+      "2025-03-18": 15
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/organization.pantaris.io.ico",
     "slug": "organizations",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 176,
     "timeDay": 212,
     "timeWeek": 157,
     "timeMonth": 153,
     "timeYear": 176,
     "dailyMinutesDown": {
-      "2025-03-18": 1
+      "2025-03-18": 15
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.pantaris.io.ico",
     "slug": "creator",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 154,
     "timeDay": 206,
     "timeWeek": 154,
     "timeMonth": 148,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2025-03-18": 1
+      "2025-03-18": 15
     }
   },
   {
@@ -105,18 +105,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/marketplace.pantaris.io.ico",
     "slug": "marketplace",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 178,
     "timeDay": 98,
     "timeWeek": 96,
     "timeMonth": 204,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2025-03-18": 1
+      "2025-03-18": 15
     }
   },
   {
@@ -125,18 +125,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/documentation.pantaris.io.ico",
     "slug": "documentation",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 176,
     "timeDay": 94,
     "timeWeek": 96,
     "timeMonth": 153,
     "timeYear": 176,
     "dailyMinutesDown": {
-      "2025-03-18": 1
+      "2025-03-18": 15
     }
   },
   {
@@ -145,18 +145,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/policies.pantaris.io.ico",
     "slug": "policies",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 146,
     "timeDay": 329,
     "timeWeek": 155,
     "timeMonth": 138,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2025-03-18": 1
+      "2025-03-18": 15
     }
   },
   {
@@ -201,18 +201,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/management.pantaris.io.ico",
     "slug": "operations",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 199,
     "timeDay": 220,
     "timeWeek": 164,
     "timeMonth": 320,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2025-03-18": 1
+      "2025-03-18": 15
     }
   },
   {
@@ -221,18 +221,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.pantaris.io.ico",
     "slug": "cdn",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 183,
     "timeDay": 329,
     "timeWeek": 431,
     "timeMonth": 213,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2025-03-18": 1
+      "2025-03-18": 15
     }
   },
   {
@@ -241,18 +241,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/upload.pantaris.io.ico",
     "slug": "upload-and-webdav-service",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 368,
     "timeDay": 223,
     "timeWeek": 167,
     "timeMonth": 167,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2025-03-18": 1,
+      "2025-03-18": 15,
       "2025-02-05": 30,
       "2024-11-05": 20
     }
@@ -263,18 +263,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/download.pantaris.io.ico",
     "slug": "download-service",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 174,
     "timeDay": 105,
     "timeWeek": 201,
     "timeMonth": 171,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2025-03-18": 1,
+      "2025-03-18": 15,
       "2025-02-05": 30,
       "2024-11-05": 20
     }
@@ -285,18 +285,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/healthcheck.app.pantaris.io.ico",
     "slug": "applications",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 177,
     "timeDay": 298,
     "timeWeek": 248,
     "timeMonth": 210,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2025-03-18": 1
+      "2025-03-18": 14
     }
   },
   {
@@ -322,18 +322,20 @@
     "url": "https://docker.pantaris.io",
     "icon": "https://icons.duckduckgo.com/ip3/docker.pantaris.io.ico",
     "slug": "docker-registry",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 117,
-    "timeWeek": 131,
-    "timeMonth": 119,
+    "timeDay": 107,
+    "timeWeek": 127,
+    "timeMonth": 118,
     "timeYear": 149,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-18": 0
+    }
   },
   {
     "name": "API v2",
@@ -341,18 +343,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.pantaris.io.ico",
     "slug": "api-v2",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 170,
     "timeDay": 93,
     "timeWeek": 98,
     "timeMonth": 159,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2025-03-18": 1,
+      "2025-03-18": 14,
       "2025-02-05": 30
     }
   },
@@ -362,18 +364,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status-gateway.pantaris.io.ico",
     "slug": "message-bus",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 156,
     "timeDay": 100,
     "timeWeek": 97,
     "timeMonth": 120,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2025-03-18": 1
+      "2025-03-18": 14
     }
   },
   {
@@ -382,18 +384,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status-gateway.pantaris.io.ico",
     "slug": "logs-monitoring",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.97%",
     "time": 55,
     "timeDay": 30,
     "timeWeek": 35,
     "timeMonth": 40,
     "timeYear": 55,
     "dailyMinutesDown": {
-      "2025-03-18": 0,
+      "2025-03-18": 14,
       "2025-03-11": 57
     }
   },
@@ -403,18 +405,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.mon.pantaris.io.ico",
     "slug": "metrics-monitoring",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 154,
     "timeDay": 207,
     "timeWeek": 184,
     "timeMonth": 148,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2025-03-18": 0,
+      "2025-03-18": 14,
       "2025-02-05": 30
     }
   }
