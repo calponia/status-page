@@ -20,9 +20,27 @@
     }
   },
   {
-    "name": "Projects",
+    "name": "Projects (legacy)",
     "url": "https://platform.pantaris.io",
     "icon": "https://icons.duckduckgo.com/ip3/platform.pantaris.io.ico",
+    "slug": "projects-legacy",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Projects",
+    "url": "https://project.pantaris.io",
+    "icon": "https://icons.duckduckgo.com/ip3/project.pantaris.io.ico",
     "slug": "projects",
     "status": "up",
     "uptime": "99.99%",
@@ -35,26 +53,6 @@
     "timeWeek": 124,
     "timeMonth": 154,
     "timeYear": 147,
-    "dailyMinutesDown": {
-      "2025-03-18": 30
-    }
-  },
-  {
-    "name": "Projects v2 (experimental)",
-    "url": "https://project.pantaris.io",
-    "icon": "https://icons.duckduckgo.com/ip3/project.pantaris.io.ico",
-    "slug": "projects-v2-experimental",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "97.90%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
-    "time": 151,
-    "timeDay": 257,
-    "timeWeek": 202,
-    "timeMonth": 156,
-    "timeYear": 151,
     "dailyMinutesDown": {
       "2025-03-18": 30
     }
@@ -100,24 +98,22 @@
     }
   },
   {
-    "name": "Marketplace",
+    "name": "Service catalog",
     "url": "https://marketplace.pantaris.io",
     "icon": "https://icons.duckduckgo.com/ip3/marketplace.pantaris.io.ico",
-    "slug": "marketplace",
+    "slug": "service-catalog",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "97.90%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
-    "time": 178,
-    "timeDay": 158,
-    "timeWeek": 122,
-    "timeMonth": 198,
-    "timeYear": 178,
-    "dailyMinutesDown": {
-      "2025-03-18": 30
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Documentation",
@@ -298,6 +294,24 @@
     "dailyMinutesDown": {
       "2025-03-18": 30
     }
+  },
+  {
+    "name": "Standard application startup",
+    "url": "https://service-startup.pantaris.io",
+    "icon": "https://icons.duckduckgo.com/ip3/service-startup.pantaris.io.ico",
+    "slug": "standard-application-startup",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   },
   {
     "name": "External Traffic Service",
