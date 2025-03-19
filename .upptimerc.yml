@@ -19,7 +19,7 @@ workflowSchedule:
   uptime: "*/15 * * * *" # this adjusts the frequency of the url monitors: max every 5 minutes
 
 status-website:
-  name: PANTARIS Status
+  name: Cloud Hub Status
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.pantaris.io
@@ -55,12 +55,12 @@ sites:
     expectedStatusCodes:
       - 200
 
-  - name: Projects
+  - name: Projects (legacy)
     url: https://platform.pantaris.io
     expectedStatusCodes:
       - 200
 
-  - name: Projects v2 (experimental)
+  - name: Projects
     url: https://project.pantaris.io
     expectedStatusCodes:
       - 200
@@ -75,7 +75,7 @@ sites:
     expectedStatusCodes:
       - 200
 
-  - name: Marketplace
+  - name: Service catalog
     url: https://marketplace.pantaris.io
     expectedStatusCodes:
       - 200
@@ -126,6 +126,11 @@ sites:
 
   - name: Applications
     url: https://healthcheck.app.pantaris.io
+    expectedStatusCodes:
+      - 200
+
+  - name: Standard application startup
+    url: https://service-startup.pantaris.io
     expectedStatusCodes:
       - 200
 
