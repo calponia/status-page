@@ -1,7 +1,7 @@
 url: https://service-startup.pantaris.io
-status: down
-code: 503
-responseTime: 17
-lastUpdated: 2025-03-25T11:20:09.394Z
+status: up
+code: 200
+responseTime: 20
+lastUpdated: 2025-03-25T11:46:16.857Z
 startTime: 2025-03-19T08:19:48.006Z
 generator: Upptime <https://github.com/upptime/upptime>
