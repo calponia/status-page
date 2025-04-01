@@ -1,7 +1,7 @@
 url: https://grafana.mon.pantaris.io
-status: down
-code: 403
-responseTime: 109
-lastUpdated: 2025-04-01T10:35:51.707Z
+status: up
+code: 401
+responseTime: 108
+lastUpdated: 2025-04-01T10:48:07.359Z
 startTime: 2024-09-30T15:01:51.617Z
 generator: Upptime <https://github.com/upptime/upptime>
