@@ -1,7 +1,7 @@
 url: https://status-gateway.pantaris.io/v1/status/kibana
-status: down
-code: 503
-responseTime: 21
-lastUpdated: 2025-05-07T10:21:18.678Z
+status: up
+code: 200
+responseTime: 40
+lastUpdated: 2025-05-07T11:01:47.802Z
 startTime: 2024-09-30T15:01:50.993Z
 generator: Upptime <https://github.com/upptime/upptime>
