@@ -1,7 +1,7 @@
 url: https://policies.pantaris.io
-status: up
-code: 200
-responseTime: 330
-lastUpdated: 2025-05-06T23:02:15.355Z
+status: down
+code: 503
+responseTime: 94
+lastUpdated: 2025-05-07T10:20:48.903Z
 startTime: 2024-10-07T12:42:27.758Z
 generator: Upptime <https://github.com/upptime/upptime>
