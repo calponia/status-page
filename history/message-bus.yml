@@ -1,7 +1,7 @@
 url: https://status-gateway.pantaris.io/v1/status/management-rabbitmq
 status: up
 code: 200
-responseTime: 86
-lastUpdated: 2025-06-14T23:02:20.591Z
+responseTime: 326
+lastUpdated: 2025-06-15T23:02:22.263Z
 startTime: 2024-09-30T15:01:50.183Z
 generator: Upptime <https://github.com/upptime/upptime>
