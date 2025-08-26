@@ -365,10 +365,10 @@
     "url": "http://0ca2d4b8f342a21cfb6de71d1d1c46b4.ext.pantaris.io:3001/",
     "icon": "https://icons.duckduckgo.com/ip3/0ca2d4b8f342a21cfb6de71d1d1c46b4.ext.pantaris.io.ico",
     "slug": "external-traffic-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 92,
@@ -376,7 +376,9 @@
     "timeWeek": 79,
     "timeMonth": 61,
     "timeYear": 92,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-26": 1
+    }
   },
   {
     "name": "Docker Registry",
