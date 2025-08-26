@@ -365,19 +365,19 @@
     "url": "http://0ca2d4b8f342a21cfb6de71d1d1c46b4.ext.pantaris.io:3001/",
     "icon": "https://icons.duckduckgo.com/ip3/0ca2d4b8f342a21cfb6de71d1d1c46b4.ext.pantaris.io.ico",
     "slug": "external-traffic-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "95.91%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.99%",
     "time": 92,
-    "timeDay": 43,
-    "timeWeek": 79,
+    "timeDay": 53,
+    "timeWeek": 77,
     "timeMonth": 61,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2025-08-26": 1
+      "2025-08-26": 59
     }
   },
   {
