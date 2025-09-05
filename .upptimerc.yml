@@ -9,8 +9,8 @@ i18n:
 # This disables the automatic deletion of issues, so that they can be reviewed by the developers.
 skipDeleteIssues: true
 
-# configure self-hosted runners
-runner: "[base]"
+# small, github hosted runner. It is free for us, because this is a public repository
+runner: ubuntu-latest 
 
 # adjust workflow schedules
 workflowSchedule:
