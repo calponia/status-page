@@ -20,7 +20,7 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/15 * * * *" # this adjusts the frequency of the url monitors: max every 5 minutes
+  uptime: "*/10 * * * *" # this adjusts the frequency of the url monitors: max every 5 minutes
 
 status-website:
   name: Cloud Hub Status
