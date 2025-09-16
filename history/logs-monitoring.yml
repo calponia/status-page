@@ -1,7 +1,7 @@
 url: https://status-gateway.pantaris.io/v1/status/kibana
-status: up
-code: 200
-responseTime: 285
-lastUpdated: 2025-09-15T23:02:18.035Z
+status: down
+code: 503
+responseTime: 84
+lastUpdated: 2025-09-16T10:44:31.679Z
 startTime: 2024-09-30T15:01:50.993Z
 generator: Upptime <https://github.com/upptime/upptime>
