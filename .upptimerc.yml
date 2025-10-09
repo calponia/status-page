@@ -32,7 +32,7 @@ status-website:
     - title: Home
       href: https://pantaris.io
     - title: Workspace
-      href: https://platform.pantaris.io
+      href: https://project.pantaris.io
     - title: Contact & Support
       href: https://documentation.pantaris.io/support/contact
   # custom css and styling
@@ -100,11 +100,6 @@ sites:
       - 200
     __dangerous__body_down_if_text_missing: "<title>Calponia</title>"
 
-  - name: Forum
-    url: https://forum.pantaris.io
-    expectedStatusCodes:
-      - 200
-
   - name: Operations
     url: https://management.pantaris.io
     expectedStatusCodes:
@@ -153,6 +148,16 @@ sites:
     expectedStatusCodes:
       - 200
     __dangerous__body_down_if_text_missing: "{\"data\":{\"code\":\"OPERATIONAL\"}}"
+
+  - name: Windows application streaming
+    url: https://status-gateway.pantaris.io/v1/status/appstream
+    expectedStatusCodes:
+      - 200
+
+  - name: User account inactivity
+    url: https://status-gateway.pantaris.io/v1/status/user-inactivity
+    expectedStatusCodes:
+      - 200
 
   - name: Message Bus
     url: https://status-gateway.pantaris.io/v1/status/management-rabbitmq
