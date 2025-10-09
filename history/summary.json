@@ -201,8 +201,8 @@
   },
   {
     "name": "Operations",
-    "url": "https://management.pantaris.io",
-    "icon": "https://icons.duckduckgo.com/ip3/management.pantaris.io.ico",
+    "url": "https://management-v2.pantaris.io",
+    "icon": "https://icons.duckduckgo.com/ip3/management-v2.pantaris.io.ico",
     "slug": "operations",
     "status": "up",
     "uptime": "99.98%",
