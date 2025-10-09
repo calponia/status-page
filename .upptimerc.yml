@@ -101,7 +101,7 @@ sites:
     __dangerous__body_down_if_text_missing: "<title>Calponia</title>"
 
   - name: Operations
-    url: https://management.pantaris.io
+    url: https://management-v2.pantaris.io
     expectedStatusCodes:
       - 200
 
