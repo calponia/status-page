@@ -123,23 +123,33 @@ sites:
       - 200
     __dangerous__body_down_if_text_missing: "{\"data\":{\"code\":\"OPERATIONAL\"}}"
 
-  - name: Applications
-    url: https://healthcheck.app.pantaris.io
+  - name: Container services - General
+    url: https://status-gateway.pantaris.io/v1/status/app-operator
     expectedStatusCodes:
       - 200
 
-  - name: Standard application startup
+  - name: Container services - Build
+    url: https://status-gateway.pantaris.io/v1/status/apphandler
+    expectedStatusCodes:
+      - 200
+
+  - name: Container services - Startup
     url: https://service-startup.pantaris.io
     expectedStatusCodes:
       - 200
 
-  - name: External Traffic Service
+  - name: Container services - External Traffic
     url: http://0ca2d4b8f342a21cfb6de71d1d1c46b4.ext.pantaris.io:3001/
     expectedStatusCodes:
       - 200
 
-  - name: Docker Registry
+  - name: Container services - Registry
     url: https://docker.pantaris.io
+    expectedStatusCodes:
+      - 200
+
+  - name: Version Control
+    url: https://status-gateway.pantaris.io/v1/status/gitserver
     expectedStatusCodes:
       - 200
 
