@@ -89,6 +89,12 @@ sites:
     expectedStatusCodes:
       - 200
 
+  - name: Calendar
+    url: https://calendar.pantaris.io/healthcheck
+    expectedStatusCodes:
+      - 200
+    __dangerous__body_down_if_text_missing: "{\"code\":\"OPERATIONAL\"}"
+
   - name: Policies
     url: https://policies.pantaris.io
     expectedStatusCodes:
@@ -111,6 +117,11 @@ sites:
       - 200
     __dangerous__body_down_if_text_missing: "<h1>Calponia CDN</h1>"
 
+  - name: Storage
+    url: https://status-gateway.pantaris.io/v1/status/blob-storage
+    expectedStatusCodes:
+      - 200
+
   - name: Upload & Webdav Service
     url: https://upload.pantaris.io/healthcheck
     expectedStatusCodes:
@@ -122,6 +133,31 @@ sites:
     expectedStatusCodes:
       - 200
     __dangerous__body_down_if_text_missing: "{\"data\":{\"code\":\"OPERATIONAL\"}}"
+
+  - name: Version Control
+    url: https://status-gateway.pantaris.io/v1/status/gitserver
+    expectedStatusCodes:
+      - 200
+
+  - name: Statistics
+    url: https://status-gateway.pantaris.io/v1/status/statistics
+    expectedStatusCodes:
+      - 200
+
+  - name: Notifications
+    url: https://status-gateway.pantaris.io/v1/status/notification-hub
+    expectedStatusCodes:
+      - 200
+
+  - name: SCIM API
+    url: https://status-gateway.pantaris.io/v1/status/scim-api-interface
+    expectedStatusCodes:
+      - 200
+
+  - name: Fleet Archive Exporter
+    url: https://status-gateway.pantaris.io/v1/status/fleet-exporter
+    expectedStatusCodes:
+      - 200
 
   - name: Container services - General
     url: https://status-gateway.pantaris.io/v1/status/app-operator
@@ -148,8 +184,8 @@ sites:
     expectedStatusCodes:
       - 200
 
-  - name: Version Control
-    url: https://status-gateway.pantaris.io/v1/status/gitserver
+  - name: Container services - Dashboard
+    url: https://status-gateway.pantaris.io/v1/status/dashboard
     expectedStatusCodes:
       - 200
 
@@ -159,8 +195,24 @@ sites:
       - 200
     __dangerous__body_down_if_text_missing: "{\"data\":{\"code\":\"OPERATIONAL\"}}"
 
+  - name: API Public Gateway
+    url: https://api.pantaris.io/v3-preview/internal/health
+    expectedStatusCodes:
+      - 200
+    __dangerous__body_down_if_text_missing: "{\"status\":\"HEALTHY\"}"
+
   - name: Windows application streaming
     url: https://status-gateway.pantaris.io/v1/status/appstream
+    expectedStatusCodes:
+      - 200
+
+  - name: IAM
+    url: https://status-gateway.pantaris.io/v1/status/ciam
+    expectedStatusCodes:
+      - 200
+
+  - name: 3rd Party IAM
+    url: https://status-gateway.pantaris.io/v1/status/third-party-iam
     expectedStatusCodes:
       - 200
 
@@ -174,12 +226,32 @@ sites:
     expectedStatusCodes:
       - 200
 
-  - name: Logs Monitoring
+  - name: Open API Explorer
+    url: https://openapi.pantaris.io
+    expectedStatusCodes:
+      - 200
+
+  - name: Async API Explorer
+    url: https://asyncapi.pantaris.io
+    expectedStatusCodes:
+      - 200
+
+  - name: Async API Specification
+    url: https://data-events.pantaris.io/v2/explorer/
+    expectedStatusCodes:
+      - 200
+
+  - name: Logs - Monitoring
+    url: https://status-gateway.pantaris.io/v1/status/logs
+    expectedStatusCodes:
+      - 200
+
+  - name: Logs - UI
     url: https://status-gateway.pantaris.io/v1/status/kibana
     expectedStatusCodes:
       - 200
 
-  - name: Metrics Monitoring
+  - name: Metrics - Monitoring
     url: https://grafana.mon.pantaris.io
     expectedStatusCodes:
       - 401
