@@ -1,7 +1,7 @@
-url: https://api.pantaris.io/v2/healthcheck
+url: https://api.cloudhub.etas.com/v2/healthcheck
 status: up
 code: 200
-responseTime: 386
-lastUpdated: 2026-02-16T23:05:52.760Z
+responseTime: 301
+lastUpdated: 2026-02-17T11:31:37.656Z
 startTime: 2024-09-30T15:01:49.339Z
 generator: Upptime <https://github.com/upptime/upptime>
