@@ -3,7 +3,7 @@ repo: status-page # The name of this repository
 
 # configure footer: https://upptime.js.org/docs/faq#how-do-i-remove-the-powered-by-upptime-in-the-footer-of-my-website
 i18n:
-  footer: © 2025 [ETAS GmbH](https://policies.pantaris.io/corporate-information), [Privacy Statement](https://policies.pantaris.io/policies/privacy)
+  footer: © 2025 [ETAS GmbH](https://policies.cloudhub.etas.com/corporate-information), [Privacy Statement](https://policies.cloudhub.etas.com/policies/privacy)
 
 # Issues are automatically closed once they are resolved, however if they are open for less than 15 minutes they are deleted instead.
 # This disables the automatic deletion of issues, so that they can be reviewed by the developers.
@@ -26,71 +26,71 @@ status-website:
   name: Cloud Hub Status
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.pantaris.io
+  cname: status.cloudhub.etas.com
   # baseUrl: /status-page-poc2
   navbar:
     - title: Home
-      href: https://pantaris.io
+      href: https://cloudhub.etas.com
     - title: Workspace
-      href: https://project.pantaris.io
+      href: https://project.cloudhub.etas.com
     - title: Contact & Support
-      href: https://documentation.pantaris.io/support/contact
+      href: https://documentation.cloudhub.etas.com/support/contact
   # custom css and styling
   ## without cname
   # themeUrl: https://calponia.github.io/status-page-poc2/etas-theme.css
   # logoUrl: https://calponia.github.io/status-page-poc2/logo_white.svg
   # favicon: https://calponia.github.io/status-page-poc2/favicon.png
   ## with cname
-  themeUrl: https://status.pantaris.io/etas-theme.css
-  logoUrl: https://status.pantaris.io/logo_white.svg
-  favicon: https://status.pantaris.io/favicon.png
+  themeUrl: https://status.cloudhub.etas.com/etas-theme.css
+  logoUrl: https://status.cloudhub.etas.com/logo_white.svg
+  favicon: https://status.cloudhub.etas.com/favicon.png
   links:
     - rel: stylesheet
       ## without cname
       # href: https://calponia.github.io/status-page-poc2/custom.css
       ## with cname
-      href: https://status.pantaris.io/custom.css
+      href: https://status.cloudhub.etas.com/custom.css
 
 # configuration of monitoring endpoints: https://upptime.js.org/docs/configuration#endpoints
 sites:
 
   - name: Login & user settings
-    url: https://my.pantaris.io
+    url: https://my.cloudhub.etas.com
     expectedStatusCodes:
       - 200
 
   - name: Projects (legacy)
-    url: https://platform.pantaris.io
+    url: https://platform.cloudhub.etas.com
     expectedStatusCodes:
       - 200
 
   - name: Projects
-    url: https://project.pantaris.io
+    url: https://project.cloudhub.etas.com
     expectedStatusCodes:
       - 200
 
   - name: Organizations
-    url: https://organization.pantaris.io
+    url: https://organization.cloudhub.etas.com
     expectedStatusCodes:
       - 200
 
   - name: Creator
-    url: https://portal.pantaris.io
+    url: https://portal.cloudhub.etas.com
     expectedStatusCodes:
       - 200
 
   - name: Service catalog
-    url: https://marketplace.pantaris.io
+    url: https://marketplace.cloudhub.etas.com
     expectedStatusCodes:
       - 200
 
   - name: Documentation
-    url: https://documentation.pantaris.io
+    url: https://documentation.cloudhub.etas.com
     expectedStatusCodes:
       - 200
 
   - name: Policies
-    url: https://policies.pantaris.io
+    url: https://policies.cloudhub.etas.com
     expectedStatusCodes:
       - 200
 
@@ -101,85 +101,85 @@ sites:
     __dangerous__body_down_if_text_missing: "<title>Calponia</title>"
 
   - name: Operations
-    url: https://management-v2.pantaris.io
+    url: https://management-v2.cloudhub.etas.com
     expectedStatusCodes:
       - 200
 
   - name: CDN
-    url: https://cdn.pantaris.io
+    url: https://cdn.cloudhub.etas.com
     expectedStatusCodes:
       - 200
     __dangerous__body_down_if_text_missing: "<h1>Calponia CDN</h1>"
 
   - name: Upload & Webdav Service
-    url: https://upload.pantaris.io/healthcheck
+    url: https://upload.cloudhub.etas.com/healthcheck
     expectedStatusCodes:
       - 200
     __dangerous__body_down_if_text_missing: "{\"data\":{\"code\":\"OPERATIONAL\"}}"
 
   - name: Download Service
-    url: https://download.pantaris.io/healthcheck
+    url: https://download.cloudhub.etas.com/healthcheck
     expectedStatusCodes:
       - 200
     __dangerous__body_down_if_text_missing: "{\"data\":{\"code\":\"OPERATIONAL\"}}"
 
   - name: Container services - General
-    url: https://status-gateway.pantaris.io/v1/status/app-operator
+    url: https://status-gateway.cloudhub.etas.com/v1/status/app-operator
     expectedStatusCodes:
       - 200
 
   - name: Container services - Build
-    url: https://status-gateway.pantaris.io/v1/status/apphandler
+    url: https://status-gateway.cloudhub.etas.com/v1/status/apphandler
     expectedStatusCodes:
       - 200
 
   - name: Container services - Startup
-    url: https://service-startup.pantaris.io
+    url: https://service-startup.cloudhub.etas.com
     expectedStatusCodes:
       - 200
 
   - name: Container services - External Traffic
-    url: http://0ca2d4b8f342a21cfb6de71d1d1c46b4.ext.pantaris.io:3001/
+    url: http://0ca2d4b8f342a21cfb6de71d1d1c46b4.ext.cloudhub.etas.com:3001/
     expectedStatusCodes:
       - 200
 
   - name: Container services - Registry
-    url: https://docker.pantaris.io
+    url: https://docker.cloudhub.etas.com
     expectedStatusCodes:
       - 200
 
   - name: Version Control
-    url: https://status-gateway.pantaris.io/v1/status/gitserver
+    url: https://status-gateway.cloudhub.etas.com/v1/status/gitserver
     expectedStatusCodes:
       - 200
 
   - name: API v2
-    url: https://api.pantaris.io/v2/healthcheck
+    url: https://api.cloudhub.etas.com/v2/healthcheck
     expectedStatusCodes:
       - 200
     __dangerous__body_down_if_text_missing: "{\"data\":{\"code\":\"OPERATIONAL\"}}"
 
   - name: Windows application streaming
-    url: https://status-gateway.pantaris.io/v1/status/appstream
+    url: https://status-gateway.cloudhub.etas.com/v1/status/appstream
     expectedStatusCodes:
       - 200
 
   - name: User account inactivity
-    url: https://status-gateway.pantaris.io/v1/status/user-inactivity
+    url: https://status-gateway.cloudhub.etas.com/v1/status/user-inactivity
     expectedStatusCodes:
       - 200
 
   - name: Message Bus
-    url: https://status-gateway.pantaris.io/v1/status/management-rabbitmq
+    url: https://status-gateway.cloudhub.etas.com/v1/status/management-rabbitmq
     expectedStatusCodes:
       - 200
 
   - name: Logs Monitoring
-    url: https://status-gateway.pantaris.io/v1/status/kibana
+    url: https://status-gateway.cloudhub.etas.com/v1/status/kibana
     expectedStatusCodes:
       - 200
 
   - name: Metrics Monitoring
-    url: https://grafana.mon.pantaris.io
+    url: https://grafana.mon.cloudhub.etas.com
     expectedStatusCodes:
       - 401
