@@ -80,7 +80,7 @@ sites:
       - 200
 
   - name: Service catalog
-    url: https://marketplace.cloudhub.etas.com
+    url: https://cloudhub.etas.com
     expectedStatusCodes:
       - 200
 
