@@ -1,7 +1,7 @@
 url: https://status-gateway.cloudhub.etas.com/v1/status/kibana
 status: up
 code: 200
-responseTime: 270
-lastUpdated: 2026-02-26T23:07:24.722Z
+responseTime: 259
+lastUpdated: 2026-02-27T23:04:12.577Z
 startTime: 2026-02-17T13:21:14.951Z
 generator: Upptime <https://github.com/upptime/upptime>
