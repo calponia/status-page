@@ -1,7 +1,7 @@
 url: https://status-gateway.cloudhub.etas.com/v1/status/fleet-exporter
 status: up
 code: 200
-responseTime: 154
-lastUpdated: 2026-03-04T23:06:26.578Z
+responseTime: 112
+lastUpdated: 2026-03-05T23:22:16.190Z
 startTime: 2026-02-17T13:21:03.983Z
 generator: Upptime <https://github.com/upptime/upptime>
