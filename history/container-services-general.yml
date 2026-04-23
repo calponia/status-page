@@ -1,7 +1,7 @@
 url: https://status-gateway.cloudhub.etas.com/v1/status/app-operator
 status: up
 code: 200
-responseTime: 143
-lastUpdated: 2026-04-22T23:15:59.020Z
+responseTime: 110
+lastUpdated: 2026-04-23T23:15:16.934Z
 startTime: 2025-12-09T11:39:59.842Z
 generator: Upptime <https://github.com/upptime/upptime>
