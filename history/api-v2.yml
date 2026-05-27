@@ -1,7 +1,7 @@
 url: https://api.cloudhub.etas.com/v2/healthcheck
 status: up
 code: 200
-responseTime: 344
-lastUpdated: 2026-05-26T23:23:55.112Z
+responseTime: 368
+lastUpdated: 2026-05-27T10:39:28.929Z
 startTime: 2024-09-30T15:01:49.339Z
 generator: Upptime <https://github.com/upptime/upptime>
