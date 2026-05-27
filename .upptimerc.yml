@@ -3,7 +3,7 @@ repo: status-page # The name of this repository
 
 # configure footer: https://upptime.js.org/docs/faq#how-do-i-remove-the-powered-by-upptime-in-the-footer-of-my-website
 i18n:
-  footer: © 2025 [ETAS GmbH](https://policies.cloudhub.etas.com/corporate-information), [Privacy Statement](https://policies.cloudhub.etas.com/policies/privacy)
+  footer: © 2026 [ETAS GmbH](https://policies.cloudhub.etas.com/corporate-information), [Privacy Statement](https://policies.cloudhub.etas.com/policies/privacy)
 
 # Issues are automatically closed once they are resolved, however if they are open for less than 15 minutes they are deleted instead.
 # This disables the automatic deletion of issues, so that they can be reviewed by the developers.
