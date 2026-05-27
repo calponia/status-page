@@ -96,8 +96,8 @@
     "slug": "service-catalog",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 345,
@@ -106,7 +106,7 @@
     "timeMonth": 569,
     "timeYear": 383,
     "dailyMinutesDown": {
-      "2026-05-27": 1,
+      "2026-05-27": 2,
       "2026-03-17": 24
     }
   },
