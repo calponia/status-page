@@ -221,6 +221,11 @@ sites:
     expectedStatusCodes:
       - 200
 
+  - name: User manual documentation Service
+    url: https://documentation-user-manual-api.cloudhub.etas.com/v1/internal/health
+    expectedStatusCodes:
+      - 200
+
   - name: Message Bus
     url: https://status-gateway.cloudhub.etas.com/v1/status/management-rabbitmq
     expectedStatusCodes:
