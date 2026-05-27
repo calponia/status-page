@@ -96,9 +96,9 @@
     "slug": "service-catalog",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 346,
     "timeDay": 486,
@@ -106,8 +106,8 @@
     "timeMonth": 571,
     "timeYear": 384,
     "dailyMinutesDown": {
-      "2026-05-27": 8,
-      "2026-03-17": 24
+      "2026-03-17": 24,
+      "2026-05-27": 16
     }
   },
   {
@@ -255,9 +255,9 @@
     "timeMonth": 517,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2026-02-10": 26,
+      "2025-07-08": 19,
       "2025-09-16": 8,
-      "2025-07-08": 19
+      "2026-02-10": 26
     }
   },
   {
@@ -277,9 +277,9 @@
     "timeMonth": 471,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2026-02-10": 26,
+      "2025-07-11": 11,
       "2025-09-16": 9,
-      "2025-07-11": 11
+      "2026-02-10": 26
     }
   },
   {
@@ -345,9 +345,9 @@
     "timeMonth": 124,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2026-05-05": 36,
+      "2026-01-22": 6,
       "2026-03-17": 20,
-      "2026-01-22": 6
+      "2026-05-05": 36
     }
   },
   {
@@ -433,14 +433,14 @@
     "timeMonth": 120,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2026-02-17": 7,
       "2025-12-09": 700,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
-      "2025-12-03": 483
+      "2025-12-03": 483,
+      "2026-02-17": 7
     }
   },
   {
@@ -478,8 +478,8 @@
     "timeMonth": 281,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2026-02-17": 7,
-      "2026-02-10": 26
+      "2026-02-10": 26,
+      "2026-02-17": 7
     }
   },
   {
@@ -611,8 +611,8 @@
     "timeMonth": 146,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2026-03-24": 29,
-      "2026-01-22": 5
+      "2026-01-22": 5,
+      "2026-03-24": 29
     }
   },
   {
@@ -631,6 +631,24 @@
     "timeWeek": 119,
     "timeMonth": 122,
     "timeYear": 120,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "User manual documentation Service",
+    "url": "https://documentation-user-manual-api.cloudhub.etas.com/v1/internal/health",
+    "icon": "https://icons.duckduckgo.com/ip3/documentation-user-manual-api.cloudhub.etas.com.ico",
+    "slug": "user-manual-documentation-service",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 264,
+    "timeDay": 264,
+    "timeWeek": 264,
+    "timeMonth": 264,
+    "timeYear": 264,
     "dailyMinutesDown": {}
   },
   {
@@ -722,9 +740,9 @@
     "timeMonth": 124,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2026-02-10": 50,
+      "2025-09-16": 9,
       "2026-01-22": 5,
-      "2025-09-16": 9
+      "2026-02-10": 50
     }
   },
   {
