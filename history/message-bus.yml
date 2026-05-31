@@ -1,7 +1,7 @@
 url: https://status-gateway.cloudhub.etas.com/v1/status/management-rabbitmq
 status: up
 code: 200
-responseTime: 406
-lastUpdated: 2026-05-30T23:20:21.190Z
+responseTime: 484
+lastUpdated: 2026-05-31T23:22:07.744Z
 startTime: 2024-09-30T15:01:50.183Z
 generator: Upptime <https://github.com/upptime/upptime>
