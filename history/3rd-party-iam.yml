@@ -1,7 +1,7 @@
 url: https://status-gateway.cloudhub.etas.com/v1/status/third-party-iam
 status: up
 code: 200
-responseTime: 500
-lastUpdated: 2026-06-21T23:28:16.917Z
+responseTime: 361
+lastUpdated: 2026-06-22T23:28:47.200Z
 startTime: 2026-02-17T13:21:10.130Z
 generator: Upptime <https://github.com/upptime/upptime>
