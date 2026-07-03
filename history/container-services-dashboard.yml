@@ -1,7 +1,7 @@
 url: https://status-gateway.cloudhub.etas.com/v1/status/dashboard
 status: up
 code: 200
-responseTime: 390
-lastUpdated: 2026-07-02T23:23:00.572Z
+responseTime: 256
+lastUpdated: 2026-07-03T23:21:26.375Z
 startTime: 2026-02-17T13:21:07.040Z
 generator: Upptime <https://github.com/upptime/upptime>
