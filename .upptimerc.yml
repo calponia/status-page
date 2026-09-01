@@ -89,12 +89,6 @@ sites:
     expectedStatusCodes:
       - 200
 
-  - name: Calendar
-    url: https://calendar.cloudhub.etas.com/healthcheck
-    expectedStatusCodes:
-      - 200
-    __dangerous__body_down_if_text_missing: "{\"code\":\"OPERATIONAL\"}"
-
   - name: Policies
     url: https://policies.cloudhub.etas.com
     expectedStatusCodes:
@@ -151,11 +145,6 @@ sites:
 
   - name: SCIM API
     url: https://status-gateway.cloudhub.etas.com/v1/status/scim-api-interface
-    expectedStatusCodes:
-      - 200
-
-  - name: Fleet Archive Exporter
-    url: https://status-gateway.cloudhub.etas.com/v1/status/fleet-exporter
     expectedStatusCodes:
       - 200
 
