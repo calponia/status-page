@@ -59,11 +59,6 @@ sites:
     expectedStatusCodes:
       - 200
 
-  - name: Projects (legacy)
-    url: https://platform.cloudhub.etas.com
-    expectedStatusCodes:
-      - 200
-
   - name: Projects
     url: https://project.cloudhub.etas.com
     expectedStatusCodes:
