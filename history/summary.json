@@ -77,7 +77,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloudhub.etas.com.ico",
     "slug": "service-catalog",
     "status": "up",
-    "uptime": "97.81%",
+    "uptime": "97.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -146,10 +146,10 @@
     "url": "https://helpspot.calponia.com",
     "icon": "https://icons.duckduckgo.com/ip3/helpspot.calponia.com.ico",
     "slug": "support",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 416,
@@ -160,7 +160,8 @@
     "dailyMinutesDown": {
       "2026-06-02": 89,
       "2026-07-25": 45,
-      "2026-07-24": 15
+      "2026-07-24": 15,
+      "2026-09-22": 1
     }
   },
   {
