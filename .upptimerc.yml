@@ -89,12 +89,6 @@ sites:
     expectedStatusCodes:
       - 200
 
-  - name: Support
-    url: https://helpspot.calponia.com
-    expectedStatusCodes:
-      - 200
-    __dangerous__body_down_if_text_missing: "<title>Calponia</title>"
-
   - name: Operations
     url: https://management-v2.cloudhub.etas.com
     expectedStatusCodes:
