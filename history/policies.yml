@@ -1,7 +1,7 @@
 url: https://policies.cloudhub.etas.com
-status: down
-code: 503
-responseTime: 345
-lastUpdated: 2026-10-06T10:17:49.221Z
+status: up
+code: 200
+responseTime: 494
+lastUpdated: 2026-10-06T10:33:32.734Z
 startTime: 2024-10-07T12:42:27.758Z
 generator: Upptime <https://github.com/upptime/upptime>
