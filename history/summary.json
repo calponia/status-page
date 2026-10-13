@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 513,
     "timeDay": 576,
-    "timeWeek": 589,
+    "timeWeek": 582,
     "timeMonth": 611,
     "timeYear": 599,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 474,
     "timeDay": 817,
-    "timeWeek": 657,
+    "timeWeek": 662,
     "timeMonth": 608,
     "timeYear": 553,
     "dailyMinutesDown": {
@@ -50,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 470,
     "timeDay": 583,
-    "timeWeek": 568,
+    "timeWeek": 532,
     "timeMonth": 540,
     "timeYear": 543,
     "dailyMinutesDown": {}
@@ -68,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 444,
     "timeDay": 588,
-    "timeWeek": 556,
+    "timeWeek": 547,
     "timeMonth": 552,
     "timeYear": 510,
     "dailyMinutesDown": {}
@@ -79,14 +79,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloudhub.etas.com.ico",
     "slug": "service-catalog",
     "status": "up",
-    "uptime": "97.89%",
+    "uptime": "97.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.71%",
     "time": 456,
     "timeDay": 316,
-    "timeWeek": 614,
+    "timeWeek": 606,
     "timeMonth": 599,
     "timeYear": 525,
     "dailyMinutesDown": {
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 425,
     "timeDay": 564,
-    "timeWeek": 458,
+    "timeWeek": 431,
     "timeMonth": 535,
     "timeYear": 494,
     "dailyMinutesDown": {}
@@ -133,12 +133,12 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 416,
     "timeDay": 338,
-    "timeWeek": 511,
+    "timeWeek": 545,
     "timeMonth": 523,
     "timeYear": 480,
     "dailyMinutesDown": {
@@ -158,7 +158,7 @@
     "uptimeYear": "100.00%",
     "time": 417,
     "timeDay": 313,
-    "timeWeek": 586,
+    "timeWeek": 574,
     "timeMonth": 696,
     "timeYear": 481,
     "dailyMinutesDown": {}
@@ -176,7 +176,7 @@
     "uptimeYear": "100.00%",
     "time": 389,
     "timeDay": 314,
-    "timeWeek": 411,
+    "timeWeek": 378,
     "timeMonth": 484,
     "timeYear": 448,
     "dailyMinutesDown": {}
@@ -194,7 +194,7 @@
     "uptimeYear": "100.00%",
     "time": 495,
     "timeDay": 325,
-    "timeWeek": 453,
+    "timeWeek": 421,
     "timeMonth": 492,
     "timeYear": 495,
     "dailyMinutesDown": {
@@ -214,7 +214,7 @@
     "uptimeYear": "100.00%",
     "time": 411,
     "timeDay": 601,
-    "timeWeek": 473,
+    "timeWeek": 474,
     "timeMonth": 524,
     "timeYear": 460,
     "dailyMinutesDown": {
@@ -234,7 +234,7 @@
     "uptimeYear": "99.99%",
     "time": 437,
     "timeDay": 339,
-    "timeWeek": 443,
+    "timeWeek": 437,
     "timeMonth": 456,
     "timeYear": 474,
     "dailyMinutesDown": {
@@ -255,7 +255,7 @@
     "uptimeYear": "98.11%",
     "time": 255,
     "timeDay": 319,
-    "timeWeek": 443,
+    "timeWeek": 438,
     "timeMonth": 443,
     "timeYear": 255,
     "dailyMinutesDown": {
@@ -281,7 +281,7 @@
     "uptimeYear": "100.00%",
     "time": 280,
     "timeDay": 330,
-    "timeWeek": 374,
+    "timeWeek": 358,
     "timeMonth": 407,
     "timeYear": 280,
     "dailyMinutesDown": {
@@ -293,23 +293,24 @@
     "url": "https://status-gateway.cloudhub.etas.com/v1/status/notification-hub",
     "icon": "https://icons.duckduckgo.com/ip3/status-gateway.cloudhub.etas.com.ico",
     "slug": "notifications",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
-    "time": 285,
-    "timeDay": 316,
-    "timeWeek": 345,
-    "timeMonth": 415,
-    "timeYear": 285,
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
+    "time": 286,
+    "timeDay": 336,
+    "timeWeek": 339,
+    "timeMonth": 413,
+    "timeYear": 286,
     "dailyMinutesDown": {
       "2026-01-22": 6,
       "2026-03-17": 20,
       "2026-05-05": 36,
       "2026-07-14": 39,
-      "2026-10-06": 16
+      "2026-10-06": 16,
+      "2026-10-13": 6
     }
   },
   {
@@ -317,19 +318,20 @@
     "url": "https://status-gateway.cloudhub.etas.com/v1/status/scim-api-interface",
     "icon": "https://icons.duckduckgo.com/ip3/status-gateway.cloudhub.etas.com.ico",
     "slug": "scim-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 284,
-    "timeDay": 315,
-    "timeWeek": 396,
-    "timeMonth": 418,
-    "timeYear": 284,
+    "time": 293,
+    "timeDay": 1327,
+    "timeWeek": 602,
+    "timeMonth": 478,
+    "timeYear": 293,
     "dailyMinutesDown": {
-      "2026-01-22": 6
+      "2026-01-22": 6,
+      "2026-10-13": 6
     }
   },
   {
@@ -345,7 +347,7 @@
     "uptimeYear": "98.11%",
     "time": 307,
     "timeDay": 339,
-    "timeWeek": 364,
+    "timeWeek": 347,
     "timeMonth": 421,
     "timeYear": 307,
     "dailyMinutesDown": {
@@ -371,7 +373,7 @@
     "uptimeYear": "98.11%",
     "time": 239,
     "timeDay": 319,
-    "timeWeek": 346,
+    "timeWeek": 331,
     "timeMonth": 404,
     "timeYear": 239,
     "dailyMinutesDown": {
@@ -398,7 +400,7 @@
     "uptimeYear": "100.00%",
     "time": 430,
     "timeDay": 304,
-    "timeWeek": 435,
+    "timeWeek": 410,
     "timeMonth": 456,
     "timeYear": 430,
     "dailyMinutesDown": {}
@@ -416,7 +418,7 @@
     "uptimeYear": "99.99%",
     "time": 287,
     "timeDay": 211,
-    "timeWeek": 348,
+    "timeWeek": 355,
     "timeMonth": 318,
     "timeYear": 287,
     "dailyMinutesDown": {
@@ -437,7 +439,7 @@
     "uptimeYear": "100.00%",
     "time": 416,
     "timeDay": 467,
-    "timeWeek": 439,
+    "timeWeek": 435,
     "timeMonth": 446,
     "timeYear": 416,
     "dailyMinutesDown": {}
@@ -455,7 +457,7 @@
     "uptimeYear": "100.00%",
     "time": 282,
     "timeDay": 308,
-    "timeWeek": 354,
+    "timeWeek": 335,
     "timeMonth": 387,
     "timeYear": 282,
     "dailyMinutesDown": {
@@ -475,7 +477,7 @@
     "uptimeYear": "100.00%",
     "time": 360,
     "timeDay": 317,
-    "timeWeek": 371,
+    "timeWeek": 359,
     "timeMonth": 430,
     "timeYear": 412,
     "dailyMinutesDown": {}
@@ -485,36 +487,40 @@
     "url": "https://api.cloudhub.etas.com/v3-preview/internal/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.cloudhub.etas.com.ico",
     "slug": "api-public-gateway",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 272,
-    "timeDay": 331,
-    "timeWeek": 356,
-    "timeMonth": 386,
-    "timeYear": 272,
-    "dailyMinutesDown": {}
+    "time": 273,
+    "timeDay": 454,
+    "timeWeek": 371,
+    "timeMonth": 392,
+    "timeYear": 273,
+    "dailyMinutesDown": {
+      "2026-10-13": 6
+    }
   },
   {
     "name": "Windows application streaming",
     "url": "https://status-gateway.cloudhub.etas.com/v1/status/appstream",
     "icon": "https://icons.duckduckgo.com/ip3/status-gateway.cloudhub.etas.com.ico",
     "slug": "windows-application-streaming",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 345,
-    "timeDay": 477,
-    "timeWeek": 490,
+    "time": 346,
+    "timeDay": 497,
+    "timeWeek": 474,
     "timeMonth": 506,
-    "timeYear": 345,
-    "dailyMinutesDown": {}
+    "timeYear": 346,
+    "dailyMinutesDown": {
+      "2026-10-13": 1
+    }
   },
   {
     "name": "IAM",
@@ -529,7 +535,7 @@
     "uptimeYear": "100.00%",
     "time": 269,
     "timeDay": 474,
-    "timeWeek": 370,
+    "timeWeek": 358,
     "timeMonth": 384,
     "timeYear": 269,
     "dailyMinutesDown": {
@@ -549,7 +555,7 @@
     "uptimeYear": "99.99%",
     "time": 298,
     "timeDay": 327,
-    "timeWeek": 395,
+    "timeWeek": 382,
     "timeMonth": 405,
     "timeYear": 298,
     "dailyMinutesDown": {
@@ -570,7 +576,7 @@
     "uptimeYear": "100.00%",
     "time": 216,
     "timeDay": 683,
-    "timeWeek": 438,
+    "timeWeek": 435,
     "timeMonth": 397,
     "timeYear": 216,
     "dailyMinutesDown": {}
@@ -580,18 +586,20 @@
     "url": "https://documentation-user-manual-api.cloudhub.etas.com/v1/internal/health",
     "icon": "https://icons.duckduckgo.com/ip3/documentation-user-manual-api.cloudhub.etas.com.ico",
     "slug": "user-manual-documentation-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 400,
-    "timeDay": 333,
-    "timeWeek": 410,
-    "timeMonth": 412,
-    "timeYear": 400,
-    "dailyMinutesDown": {}
+    "time": 401,
+    "timeDay": 426,
+    "timeWeek": 415,
+    "timeMonth": 415,
+    "timeYear": 401,
+    "dailyMinutesDown": {
+      "2026-10-13": 1
+    }
   },
   {
     "name": "Message Bus",
@@ -606,7 +614,7 @@
     "uptimeYear": "100.00%",
     "time": 214,
     "timeDay": 312,
-    "timeWeek": 360,
+    "timeWeek": 341,
     "timeMonth": 375,
     "timeYear": 216,
     "dailyMinutesDown": {}
@@ -624,7 +632,7 @@
     "uptimeYear": "100.00%",
     "time": 397,
     "timeDay": 307,
-    "timeWeek": 405,
+    "timeWeek": 397,
     "timeMonth": 384,
     "timeYear": 397,
     "dailyMinutesDown": {}
@@ -642,7 +650,7 @@
     "uptimeYear": "100.00%",
     "time": 395,
     "timeDay": 324,
-    "timeWeek": 403,
+    "timeWeek": 395,
     "timeMonth": 430,
     "timeYear": 395,
     "dailyMinutesDown": {}
@@ -660,7 +668,7 @@
     "uptimeYear": "100.00%",
     "time": 740,
     "timeDay": 310,
-    "timeWeek": 388,
+    "timeWeek": 377,
     "timeMonth": 398,
     "timeYear": 740,
     "dailyMinutesDown": {}
@@ -678,7 +686,7 @@
     "uptimeYear": "99.99%",
     "time": 222,
     "timeDay": 320,
-    "timeWeek": 358,
+    "timeWeek": 345,
     "timeMonth": 385,
     "timeYear": 261,
     "dailyMinutesDown": {
@@ -699,7 +707,7 @@
     "uptimeYear": "99.99%",
     "time": 380,
     "timeDay": 420,
-    "timeWeek": 466,
+    "timeWeek": 442,
     "timeMonth": 484,
     "timeYear": 380,
     "dailyMinutesDown": {
@@ -719,7 +727,7 @@
     "uptimeYear": "100.00%",
     "time": 345,
     "timeDay": 314,
-    "timeWeek": 366,
+    "timeWeek": 349,
     "timeMonth": 392,
     "timeYear": 396,
     "dailyMinutesDown": {}
