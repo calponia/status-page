@@ -1,7 +1,7 @@
 url: https://status-gateway.cloudhub.etas.com/v1/status/appstream
-status: down
-code: 503
-responseTime: 516
-lastUpdated: 2026-10-13T10:40:43.811Z
+status: up
+code: 200
+responseTime: 575
+lastUpdated: 2026-10-13T10:51:11.644Z
 startTime: 2025-10-14T09:15:30.823Z
 generator: Upptime <https://github.com/upptime/upptime>
