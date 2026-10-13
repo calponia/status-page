@@ -293,24 +293,24 @@
     "url": "https://status-gateway.cloudhub.etas.com/v1/status/notification-hub",
     "icon": "https://icons.duckduckgo.com/ip3/status-gateway.cloudhub.etas.com.ico",
     "slug": "notifications",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
-    "time": 286,
-    "timeDay": 336,
-    "timeWeek": 339,
-    "timeMonth": 413,
-    "timeYear": 286,
+    "time": 287,
+    "timeDay": 426,
+    "timeWeek": 369,
+    "timeMonth": 419,
+    "timeYear": 287,
     "dailyMinutesDown": {
       "2026-01-22": 6,
       "2026-03-17": 20,
       "2026-05-05": 36,
       "2026-07-14": 39,
       "2026-10-06": 16,
-      "2026-10-13": 6
+      "2026-10-13": 15
     }
   },
   {
@@ -318,20 +318,20 @@
     "url": "https://status-gateway.cloudhub.etas.com/v1/status/scim-api-interface",
     "icon": "https://icons.duckduckgo.com/ip3/status-gateway.cloudhub.etas.com.ico",
     "slug": "scim-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 293,
-    "timeDay": 1327,
-    "timeWeek": 602,
-    "timeMonth": 478,
+    "timeDay": 1038,
+    "timeWeek": 586,
+    "timeMonth": 477,
     "timeYear": 293,
     "dailyMinutesDown": {
       "2026-01-22": 6,
-      "2026-10-13": 6
+      "2026-10-13": 15
     }
   },
   {
@@ -487,19 +487,19 @@
     "url": "https://api.cloudhub.etas.com/v3-preview/internal/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.cloudhub.etas.com.ico",
     "slug": "api-public-gateway",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 454,
-    "timeWeek": 371,
-    "timeMonth": 392,
-    "timeYear": 273,
+    "time": 275,
+    "timeDay": 550,
+    "timeWeek": 412,
+    "timeMonth": 403,
+    "timeYear": 275,
     "dailyMinutesDown": {
-      "2026-10-13": 6
+      "2026-10-13": 15
     }
   },
   {
@@ -507,19 +507,19 @@
     "url": "https://status-gateway.cloudhub.etas.com/v1/status/appstream",
     "icon": "https://icons.duckduckgo.com/ip3/status-gateway.cloudhub.etas.com.ico",
     "slug": "windows-application-streaming",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 346,
-    "timeDay": 497,
-    "timeWeek": 474,
-    "timeMonth": 506,
+    "timeDay": 523,
+    "timeWeek": 485,
+    "timeMonth": 508,
     "timeYear": 346,
     "dailyMinutesDown": {
-      "2026-10-13": 1
+      "2026-10-13": 10
     }
   },
   {
@@ -586,19 +586,19 @@
     "url": "https://documentation-user-manual-api.cloudhub.etas.com/v1/internal/health",
     "icon": "https://icons.duckduckgo.com/ip3/documentation-user-manual-api.cloudhub.etas.com.ico",
     "slug": "user-manual-documentation-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 401,
-    "timeDay": 426,
-    "timeWeek": 415,
-    "timeMonth": 415,
+    "timeDay": 429,
+    "timeWeek": 417,
+    "timeMonth": 416,
     "timeYear": 401,
     "dailyMinutesDown": {
-      "2026-10-13": 1
+      "2026-10-13": 10
     }
   },
   {
