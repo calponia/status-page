@@ -1,7 +1,7 @@
 url: https://status-gateway.cloudhub.etas.com/v1/status/notification-hub
-status: down
-code: 503
-responseTime: 356
-lastUpdated: 2026-10-13T10:35:41.494Z
+status: up
+code: 200
+responseTime: 607
+lastUpdated: 2026-10-13T10:50:54.835Z
 startTime: 2026-02-17T13:21:02.694Z
 generator: Upptime <https://github.com/upptime/upptime>
