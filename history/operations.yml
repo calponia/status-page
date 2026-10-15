@@ -1,7 +1,7 @@
 url: https://management-v2.cloudhub.etas.com
-status: down
-code: 503
-responseTime: 30405
-lastUpdated: 2026-10-15T04:45:43.415Z
+status: up
+code: 200
+responseTime: 262
+lastUpdated: 2026-10-15T04:54:05.596Z
 startTime: 2024-09-30T15:01:41.322Z
 generator: Upptime <https://github.com/upptime/upptime>
