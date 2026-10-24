@@ -509,19 +509,20 @@
     "url": "https://status-gateway.cloudhub.etas.com/v1/status/appstream",
     "icon": "https://icons.duckduckgo.com/ip3/status-gateway.cloudhub.etas.com.ico",
     "slug": "windows-application-streaming",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 351,
-    "timeDay": 512,
-    "timeWeek": 479,
-    "timeMonth": 501,
-    "timeYear": 347,
+    "time": 354,
+    "timeDay": 1056,
+    "timeWeek": 619,
+    "timeMonth": 533,
+    "timeYear": 351,
     "dailyMinutesDown": {
-      "2026-10-13": 10
+      "2026-10-13": 10,
+      "2026-10-24": 1
     }
   },
   {
