@@ -1,7 +1,7 @@
 url: https://status-gateway.cloudhub.etas.com/v1/status/user-inactivity
 status: up
 code: 200
-responseTime: 487
-lastUpdated: 2026-10-29T23:03:11.200Z
+responseTime: 359
+lastUpdated: 2026-10-30T23:02:55.933Z
 startTime: 2025-10-14T09:15:31.703Z
 generator: Upptime <https://github.com/upptime/upptime>
