@@ -683,21 +683,21 @@
     "url": "https://status-gateway.cloudhub.etas.com/v1/status/logs",
     "icon": "https://icons.duckduckgo.com/ip3/status-gateway.cloudhub.etas.com.ico",
     "slug": "logs-monitoring",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 239,
-    "timeDay": 387,
-    "timeWeek": 331,
-    "timeMonth": 374,
-    "timeYear": 271,
+    "timeDay": 398,
+    "timeWeek": 341,
+    "timeMonth": 375,
+    "timeYear": 272,
     "dailyMinutesDown": {
       "2026-01-22": 5,
       "2026-02-10": 50,
-      "2026-11-05": 2
+      "2026-11-05": 23
     }
   },
   {
@@ -705,20 +705,20 @@
     "url": "https://status-gateway.cloudhub.etas.com/v1/status/kibana",
     "icon": "https://icons.duckduckgo.com/ip3/status-gateway.cloudhub.etas.com.ico",
     "slug": "logs-ui",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
     "time": 387,
-    "timeDay": 454,
-    "timeWeek": 420,
-    "timeMonth": 466,
+    "timeDay": 427,
+    "timeWeek": 415,
+    "timeMonth": 464,
     "timeYear": 387,
     "dailyMinutesDown": {
       "2026-07-14": 39,
-      "2026-11-05": 2
+      "2026-11-05": 23
     }
   },
   {
