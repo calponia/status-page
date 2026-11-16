@@ -372,11 +372,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/status-gateway.cloudhub.etas.com.ico",
     "slug": "container-services-build",
     "status": "up",
-    "uptime": "98.29%",
+    "uptime": "98.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.29%",
+    "uptimeYear": "98.30%",
     "time": 251,
     "timeDay": 403,
     "timeWeek": 401,
@@ -683,49 +683,6 @@
     "timeMonth": 360,
     "timeYear": 694,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Logs - Monitoring",
-    "url": "https://status-gateway.cloudhub.etas.com/v1/status/logs",
-    "icon": "https://icons.duckduckgo.com/ip3/status-gateway.cloudhub.etas.com.ico",
-    "slug": "logs-monitoring",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
-    "time": 247,
-    "timeDay": 417,
-    "timeWeek": 423,
-    "timeMonth": 380,
-    "timeYear": 275,
-    "dailyMinutesDown": {
-      "2026-01-22": 5,
-      "2026-02-10": 50,
-      "2026-11-05": 23
-    }
-  },
-  {
-    "name": "Logs - UI",
-    "url": "https://status-gateway.cloudhub.etas.com/v1/status/kibana",
-    "icon": "https://icons.duckduckgo.com/ip3/status-gateway.cloudhub.etas.com.ico",
-    "slug": "logs-ui",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.98%",
-    "time": 391,
-    "timeDay": 536,
-    "timeWeek": 480,
-    "timeMonth": 462,
-    "timeYear": 391,
-    "dailyMinutesDown": {
-      "2026-07-14": 39,
-      "2026-11-05": 23
-    }
   },
   {
     "name": "Metrics - Monitoring",
