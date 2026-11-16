@@ -224,16 +224,6 @@ sites:
     expectedStatusCodes:
       - 200
 
-  - name: Logs - Monitoring
-    url: https://status-gateway.cloudhub.etas.com/v1/status/logs
-    expectedStatusCodes:
-      - 200
-
-  - name: Logs - UI
-    url: https://status-gateway.cloudhub.etas.com/v1/status/kibana
-    expectedStatusCodes:
-      - 200
-
   - name: Metrics - Monitoring
     url: https://grafana.mon.cloudhub.etas.com
     expectedStatusCodes:
