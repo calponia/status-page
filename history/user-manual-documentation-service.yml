@@ -1,7 +1,7 @@
 url: https://documentation-user-manual-api.cloudhub.etas.com/v1/internal/health
-status: down
-code: 503
-responseTime: 410
-lastUpdated: 2026-11-17T11:16:39.529Z
+status: up
+code: 200
+responseTime: 273
+lastUpdated: 2026-11-17T11:23:15.093Z
 startTime: 2026-05-27T10:47:57.803Z
 generator: Upptime <https://github.com/upptime/upptime>
