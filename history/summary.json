@@ -443,18 +443,20 @@
     "url": "https://docker.cloudhub.etas.com",
     "icon": "https://icons.duckduckgo.com/ip3/docker.cloudhub.etas.com.ico",
     "slug": "container-services-registry",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 413,
-    "timeDay": 302,
-    "timeWeek": 449,
-    "timeMonth": 393,
+    "timeDay": 294,
+    "timeWeek": 432,
+    "timeMonth": 390,
     "timeYear": 413,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-19": 1
+    }
   },
   {
     "name": "Container services - Dashboard",
