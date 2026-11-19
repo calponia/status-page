@@ -158,7 +158,7 @@ sites:
       - 200
 
   - name: Container services - Registry
-    url: https://docker.cloudhub.etas.com
+    url: https://docker.cloudhub.etas.com/api/v2.0/ping
     expectedStatusCodes:
       - 200
 
