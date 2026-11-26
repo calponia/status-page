@@ -210,18 +210,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status-gateway.cloudhub.etas.com.ico",
     "slug": "upload-service",
     "status": "down",
-    "uptime": "11.95%",
-    "uptimeDay": "11.95%",
-    "uptimeWeek": "11.95%",
-    "uptimeMonth": "11.95%",
-    "uptimeYear": "11.95%",
+    "uptime": "6.49%",
+    "uptimeDay": "6.49%",
+    "uptimeWeek": "6.49%",
+    "uptimeMonth": "6.49%",
+    "uptimeYear": "6.49%",
     "time": 358,
     "timeDay": 358,
     "timeWeek": 358,
     "timeMonth": 358,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2026-11-26": 1
+      "2026-11-26": 3
     }
   },
   {
@@ -230,18 +230,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status-gateway.cloudhub.etas.com.ico",
     "slug": "web-dav-service",
     "status": "down",
-    "uptime": "16.07%",
-    "uptimeDay": "16.07%",
-    "uptimeWeek": "16.07%",
-    "uptimeMonth": "16.07%",
-    "uptimeYear": "16.07%",
+    "uptime": "7.45%",
+    "uptimeDay": "7.45%",
+    "uptimeWeek": "7.45%",
+    "uptimeMonth": "7.45%",
+    "uptimeYear": "7.45%",
     "time": 349,
     "timeDay": 349,
     "timeWeek": 349,
     "timeMonth": 349,
     "timeYear": 349,
     "dailyMinutesDown": {
-      "2026-11-26": 1
+      "2026-11-26": 3
     }
   },
   {
@@ -250,18 +250,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status-gateway.cloudhub.etas.com.ico",
     "slug": "project-files",
     "status": "down",
-    "uptime": "20.55%",
-    "uptimeDay": "20.55%",
-    "uptimeWeek": "20.55%",
-    "uptimeMonth": "20.55%",
-    "uptimeYear": "20.55%",
+    "uptime": "9.06%",
+    "uptimeDay": "9.06%",
+    "uptimeWeek": "9.06%",
+    "uptimeMonth": "9.06%",
+    "uptimeYear": "9.06%",
     "time": 351,
     "timeDay": 351,
     "timeWeek": 351,
     "timeMonth": 351,
     "timeYear": 351,
     "dailyMinutesDown": {
-      "2026-11-26": 1
+      "2026-11-26": 2
     }
   },
   {
