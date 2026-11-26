@@ -105,23 +105,17 @@ sites:
     expectedStatusCodes:
       - 200
 
-  - name: Upload Service
-    url: https://status-gateway.cloudhub.etas.com/v1/status/project-files-upload
+  - name: Upload & Webdav Service
+    url: https://upload.cloudhub.etas.com/healthcheck
     expectedStatusCodes:
       - 200
-    __dangerous__body_down_if_text_missing: "\"status\":\"HEALTHY\""
+    __dangerous__body_down_if_text_missing: "{\"data\":{\"code\":\"OPERATIONAL\"}}"
 
-  - name: WebDAV Service
-    url: https://status-gateway.cloudhub.etas.com/v1/status/project-files-webdav
+  - name: Download Service
+    url: https://download.cloudhub.etas.com/healthcheck
     expectedStatusCodes:
       - 200
-    __dangerous__body_down_if_text_missing: "\"status\":\"HEALTHY\""
-
-  - name: Project files
-    url: https://status-gateway.cloudhub.etas.com/v1/status/project-files-service
-    expectedStatusCodes:
-      - 200
-    __dangerous__body_down_if_text_missing: "\"status\":\"HEALTHY\""
+    __dangerous__body_down_if_text_missing: "{\"data\":{\"code\":\"OPERATIONAL\"}}"
 
   - name: Version Control
     url: https://status-gateway.cloudhub.etas.com/v1/status/gitserver
